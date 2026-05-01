@@ -168,8 +168,6 @@ JWT_SECRET=your_secret_key
 crm-portal-mern/
 │── frontend/
 │── server/
-│── assets/
-│   └── screenshots/
 │── README.md
 ```
 
